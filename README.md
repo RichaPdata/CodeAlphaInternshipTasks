@@ -1,4 +1,4 @@
-Task 1 of internship with CodeClause Done!
+Task 1 of internship with CodeAlpha Done!
 
 Successfully completed a stock market prediction project using LSTM on a Dataset by Tata Steel Limited as a case study, demonstrating the potential for highly accurate price forecasts.
 
